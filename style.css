@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+.main-up{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.div-up{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.main-img{
+    background-image: url(./img/a70afa970f792635c35a51b93f18a4cf.jfif);
+}
+.lang:hover{
+    background-color: rgb(123, 219, 187);
+    color: white;
+}
+form{
+    display: flex;
+    align-items: center;
+}
+.text-search{
+    height: 55px;
+    width: 185px;
+    background-color: rgb(223, 223, 223);
+    border-width: 0;
+}
+.maistra--search{
+    height: 55px;
+    width: 55px;
+    margin-right: 20px;
+}
